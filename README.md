@@ -34,23 +34,22 @@
 </br>
 </br>
 
-🔍 **레시피 랭킹/조회**
+🧑‍🍳  **레시피 랭킹/조회**
 ![레시피랭킹조회](https://github.com/WonjongYeon/BackEnd/assets/145513973/f39c1bf2-ff55-4853-9150-f6779dd2383e)
 </br>
 </br>
 
-🔍 **레시피 상세보기(기본정보/재료/조리과정/댓글)**
+🧑‍🍳  **레시피 상세보기(기본정보/재료/조리과정/댓글)**
 ![레시피상세보기](https://github.com/WonjongYeon/BackEnd/assets/145513973/6a3a10ae-a985-4e12-a9ac-fbcf8a682caf)
-
 </br>
 </br>
 
-**나만의 냉장고**
+🧑‍🍳 **나만의 냉장고**
 ![나만의냉장고](https://github.com/WonjongYeon/BackEnd/assets/145513973/a9885b7a-609a-4b30-a172-a120e6654579)
 </br>
 </br>
 
-**레시피 등록**
+🧑‍🍳 **레시피 등록**
 ![레시피등록](https://github.com/WonjongYeon/BackEnd/assets/145513973/5b8d8965-23e8-4b90-8bf8-b449e2c3f8b3)
 </br>
 </br>
